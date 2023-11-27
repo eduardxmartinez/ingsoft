@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ingsoft/static/css/main.f855e6bc.css",
+    "main.js": "/ingsoft/static/js/main.0be4ac94.js",
+    "static/js/787.55e419d7.chunk.js": "/ingsoft/static/js/787.55e419d7.chunk.js",
+    "static/media/logo.svg": "/ingsoft/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ingsoft/index.html",
+    "main.f855e6bc.css.map": "/ingsoft/static/css/main.f855e6bc.css.map",
+    "main.0be4ac94.js.map": "/ingsoft/static/js/main.0be4ac94.js.map",
+    "787.55e419d7.chunk.js.map": "/ingsoft/static/js/787.55e419d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.0be4ac94.js"
+  ]
+}
