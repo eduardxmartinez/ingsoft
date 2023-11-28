@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ingsoft/static/css/main.f855e6bc.css",
-    "main.js": "/ingsoft/static/js/main.ce4b2f5e.js",
+    "main.js": "/ingsoft/static/js/main.4753be10.js",
     "index.html": "/ingsoft/index.html",
     "main.f855e6bc.css.map": "/ingsoft/static/css/main.f855e6bc.css.map",
-    "main.ce4b2f5e.js.map": "/ingsoft/static/js/main.ce4b2f5e.js.map"
+    "main.4753be10.js.map": "/ingsoft/static/js/main.4753be10.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.ce4b2f5e.js"
+    "static/js/main.4753be10.js"
   ]
 }
