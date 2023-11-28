@@ -1,9 +1,8 @@
-import './App.css';
-import Homepage from './homepage';
+import Navbar from './Navbar';
 
 function App() {
   return (
-    <Homepage/>
+    <Navbar/>
   );
 }
 
