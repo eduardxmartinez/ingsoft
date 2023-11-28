@@ -1,13 +1,11 @@
 {
   "files": {
-    "main.css": "/ingsoft/static/css/main.f855e6bc.css",
-    "main.js": "/ingsoft/static/js/main.859e3d15.js",
+    "main.js": "/ingsoft/static/js/main.e0b0f057.js",
+    "static/media/logo.png": "/ingsoft/static/media/logo.5d83f1bd2aed7622aacd.png",
     "index.html": "/ingsoft/index.html",
-    "main.f855e6bc.css.map": "/ingsoft/static/css/main.f855e6bc.css.map",
-    "main.859e3d15.js.map": "/ingsoft/static/js/main.859e3d15.js.map"
+    "main.e0b0f057.js.map": "/ingsoft/static/js/main.e0b0f057.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.859e3d15.js"
+    "static/js/main.e0b0f057.js"
   ]
 }
