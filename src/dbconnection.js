@@ -1,14 +1,19 @@
-const mysql = require('mysql');
+var mysql = require('mysql');
 
- export const connection = mysql.createConnection({
+var con = mysql.createConnection({
   host: "sql3.freesqldatabase.com",
   user: "sql3665921",
   password: "AJXgrEaPv5",
-  port: 3306,
-  database: "sql3665921"
+  database: "sql3665921",
+  port: 3306
 });
 
-connection.connect(function(err) {
+con.connect(function(err) {
   if (err) throw err;
-  console.log("Connected!");
+  con.query("SELECT * FROM Productos", function (err, result, fields) {
+    if (err) throw err;
+    console.log(result);
+    con.end()
+  });
 });
+

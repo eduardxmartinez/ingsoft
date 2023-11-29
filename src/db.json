@@ -1,0 +1,92 @@
+{"Productos":[
+     {
+      "ProductoID": 1,
+      "Nombre": "Samsung Galaxy S21",
+      "Descripcion": "Teléfono inteligente Samsung Galaxy S21",
+      "Precio": 799.99,
+      "CantidadInventario": 100,
+      "CategoriaID": 1,
+      "Imagen": "https://m.media-amazon.com/images/I/61maEkn5gwL._AC_UF894,1000_QL80_.jpg"
+    },
+     {
+      "ProductoID": 2,
+      "Nombre": "iPhone 13",
+      "Descripcion": "Teléfono inteligente iPhone 13",
+      "Precio": 999.99,
+      "CantidadInventario": 150,
+      "CategoriaID": 1,
+      "Imagen": "https://m.media-amazon.com/images/I/71uVYy3PbCL._AC_UF894,1000_QL80_.jpg"
+    },
+     {
+      "ProductoID": 3,
+      "Nombre": "Google Pixel 6",
+      "Descripcion": "Teléfono inteligente Google Pixel 6",
+      "Precio": 899.99,
+      "CantidadInventario": 120,
+      "CategoriaID": 1,
+      "Imagen": "https://m.media-amazon.com/images/I/61ruKkvVIxL.jpg"
+    },
+     {
+      "ProductoID": 4,
+      "Nombre": "OnePlus 9",
+      "Descripcion": "Teléfono inteligente OnePlus 9",
+      "Precio": 849.99,
+      "CantidadInventario": 200,
+      "CategoriaID": 1,
+      "Imagen": "https://oasis.opstatics.com/content/dam/oasis/page/2021/9-series/compare/in/compare/9-pro/9pPineGreen.png"
+    },
+     {
+      "ProductoID": 5,
+      "Nombre": "Xiaomi Mi 11",
+      "Descripcion": "Teléfono inteligente Xiaomi Mi 11",
+      "Precio": 749.99,
+      "CantidadInventario": 80,
+      "CategoriaID": 1,
+      "Imagen": "https://m.media-amazon.com/images/I/51MyBbilJfS.jpg"
+    },
+     {
+      "ProductoID": 6,
+      "Nombre": "Motorola Moto G Power",
+      "Descripcion": "Teléfono inteligente Motorola Moto G Power",
+      "Precio": 299.99,
+      "CantidadInventario": 160,
+      "CategoriaID": 1,
+      "Imagen": "https://m.media-amazon.com/images/I/51abKTAYL2L._AC_UF1000,1000_QL80_.jpg"
+    },
+     {
+      "ProductoID": 7,
+      "Nombre": "LG Velvet",
+      "Descripcion": "Teléfono inteligente LG Velvet",
+      "Precio": 599.99,
+      "CantidadInventario": 130,
+      "CategoriaID": 1,
+      "Imagen": "https://m.media-amazon.com/images/I/61eWYz4G0yL._AC_UF894,1000_QL80_.jpg"
+    },
+     {
+      "ProductoID": 8,
+      "Nombre": "Sony Xperia 5 III",
+      "Descripcion": "Teléfono inteligente Sony Xperia 5 III",
+      "Precio": 1099.99,
+      "CantidadInventario": 180,
+      "CategoriaID": 1,
+      "Imagen": "https://m.media-amazon.com/images/I/61mX-x4KktL._AC_UF1000,1000_QL80_.jpg"
+    },
+     {
+      "ProductoID": 9,
+      "Nombre": "Huawei P40 Pro",
+      "Descripcion": "Teléfono inteligente Huawei P40 Pro",
+      "Precio": 899.99,
+      "CantidadInventario": 110,
+      "CategoriaID": 1,
+      "Imagen": "https://tienda.movistar.com.mx/media/catalog/product/cache/087d8656b93b378449aad7de37c3d04e/p/4/p40-pro-back.png"
+    },
+     {
+      "ProductoID": 10,
+      "Nombre": "Nokia 8.3",
+      "Descripcion": "Teléfono inteligente Nokia 8.3",
+      "Precio": 679.99,
+      "CantidadInventario": 90,
+      "CategoriaID": 1,
+      "Imagen": "https://m.media-amazon.com/images/I/41jdm-lC88L._AC_.jpg"
+    }
+  ]}

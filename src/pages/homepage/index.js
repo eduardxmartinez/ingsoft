@@ -1,7 +1,7 @@
 
 import logo from "../../assets/logo.png"
-import { Layout } from "../../components/Layout";
 import { Div, Img } from "./styles";
+
 const HomePage = () => {
   return (
     <Div>

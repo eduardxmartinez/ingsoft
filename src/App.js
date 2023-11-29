@@ -4,6 +4,7 @@ import { Navigate, Route, BrowserRouter as Router, Routes } from "react-router-d
 import {GlobalStyle} from "./GlobalStyles";
 import NotFound from "./pages/NotFound";
 import HomePage from "./pages/homepage";
+import Productos from "./pages/productos";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         <Navbar/>
         <Routes>
           <Route exact path="/ingsoft" element={<HomePage />} />
+          <Route exact path="/Productos" element={<Productos />} />
           <Route path='/ingsoft/*' element={<NotFound />} />
         </Routes>
       </Router>
