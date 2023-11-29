@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/ingsoft/static/js/main.494533b1.js",
+    "main.js": "/ingsoft/static/js/main.beae13fd.js",
     "static/media/logo.png": "/ingsoft/static/media/logo.5d83f1bd2aed7622aacd.png",
     "index.html": "/ingsoft/index.html",
-    "main.494533b1.js.map": "/ingsoft/static/js/main.494533b1.js.map"
+    "main.beae13fd.js.map": "/ingsoft/static/js/main.beae13fd.js.map"
   },
   "entrypoints": [
-    "static/js/main.494533b1.js"
+    "static/js/main.beae13fd.js"
   ]
 }
