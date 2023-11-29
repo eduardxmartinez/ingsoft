@@ -23,5 +23,5 @@ display: inline-flex;
 height: 100%;
 justify-content: center;
 text-decoration: none;
-width: 50%%;
+width: 50%;
 `
