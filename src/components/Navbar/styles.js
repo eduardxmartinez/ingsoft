@@ -6,6 +6,7 @@ align-items: center;
 background: navy;
 top: 0;
 display: flex;
+flex: 1;
 height: 50px;
 justify-content: space-evenly;
 left: 0;
@@ -23,5 +24,4 @@ display: inline-flex;
 height: 100%;
 justify-content: center;
 text-decoration: none;
-width: 50%;
 `

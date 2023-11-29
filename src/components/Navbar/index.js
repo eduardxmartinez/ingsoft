@@ -6,9 +6,9 @@ function Navbar() {
         <Nav className="navbar">
           <img src={logo} alt="logo" height={"50px"}/>
           <p>Punto de venta - Distribuidor autorizado Telcel</p>
-          <Link>Inico</Link>
-          <Link>Productos</Link>
-          <Link>Contacto</Link>
+          <Link end to="/ingsoft">Inicio</Link>
+          <Link end to="/Productos">Productos</Link>
+          <Link end to="Contacto">Contacto</Link>
         </Nav>        
     )
 }
